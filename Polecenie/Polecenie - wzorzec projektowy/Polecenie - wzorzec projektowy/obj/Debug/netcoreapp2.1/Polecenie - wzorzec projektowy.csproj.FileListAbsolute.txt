@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\bin\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.deps.json
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\bin\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.runtimeconfig.json
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\bin\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.runtimeconfig.dev.json
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\bin\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\bin\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.pdb
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\obj\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\obj\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\obj\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\obj\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.AssemblyInfo.cs
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\obj\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Polecenie\Polecenie - wzorzec projektowy\Polecenie - wzorzec projektowy\obj\Debug\netcoreapp2.1\Polecenie - wzorzec projektowy.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.deps.json
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.runtimeconfig.json
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.runtimeconfig.dev.json
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.pdb
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.AssemblyInfo.cs
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Dekorator\Dekorator - wzorzec projektowy\Dekorator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Dekorator - wzorzec projektowy.pdb

@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Wzorce Projektowe\Fabryka\Fabryka - wzorzec projektowy\Fabryka - wzorzec projektowy\obj\Debug\netcoreapp2.1\Fabryka - wzorzec projektowy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Fabryka\Fabryka - wzorzec projektowy\Fabryka - wzorzec projektowy\obj\Debug\netcoreapp2.1\Fabryka - wzorzec projektowy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Fabryka\Fabryka - wzorzec projektowy\Fabryka - wzorzec projektowy\obj\Debug\netcoreapp2.1\Fabryka - wzorzec projektowy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Fabryka\Fabryka - wzorzec projektowy\Fabryka - wzorzec projektowy\obj\Debug\netcoreapp2.1\Fabryka - wzorzec projektowy.AssemblyInfo.cs

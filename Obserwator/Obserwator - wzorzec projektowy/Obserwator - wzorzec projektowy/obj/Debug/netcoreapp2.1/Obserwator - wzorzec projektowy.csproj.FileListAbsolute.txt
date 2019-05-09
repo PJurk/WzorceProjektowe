@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.deps.json
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.runtimeconfig.json
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.runtimeconfig.dev.json
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\bin\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.pdb
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.AssemblyInfo.cs
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Obserwator\Obserwator - wzorzec projektowy\Obserwator - wzorzec projektowy\obj\Debug\netcoreapp2.1\Obserwator - wzorzec projektowy.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\bin\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.deps.json
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\bin\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.runtimeconfig.json
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\bin\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.runtimeconfig.dev.json
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\bin\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\bin\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.pdb
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\obj\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\obj\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\obj\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\obj\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.AssemblyInfo.cs
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\obj\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.dll
+C:\Users\user\Desktop\Wzorce Projektowe\Strategia\Strategia - Wzorzec Projektowy\Strategia - Wzorzec Projektowy\obj\Debug\netcoreapp2.1\Strategia - Wzorzec Projektowy.pdb
